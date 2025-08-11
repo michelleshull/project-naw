@@ -1,0 +1,24 @@
+{
+  "amendment": 18,
+  "lastScraped": "2025-08-11T07:31:56.623Z",
+  "sourceUrl": "https://constitution.congress.gov/constitution/amendment-18/",
+  "sections": [
+    {
+      "id": 1,
+      "paragraphs": [
+        {
+          "id": 1,
+          "text": "After one year from the ratification of this article the manufacture, sale, or transportation of intoxicating liquors within, the importation thereof into, or the exportation thereof from the United States and all territory subject to the jurisdiction thereof for beverage purposes is hereby prohibited."
+        },
+        {
+          "id": 2,
+          "text": "The Congress and the several States shall have concurrent power to enforce this article by appropriate legislation."
+        },
+        {
+          "id": 3,
+          "text": "This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of the several States, as provided in the Constitution, within seven years from the date of the submission hereof to the States by the Congress."
+        }
+      ]
+    }
+  ]
+}

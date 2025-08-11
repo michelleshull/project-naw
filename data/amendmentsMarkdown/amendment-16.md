@@ -1,0 +1,6 @@
+# Amendment 16
+
+## Section 1
+
+The Congress shall have power to lay and collect taxes on incomes, from whatever source derived, without apportionment among the several States, and without regard to any census or enumeration.
+

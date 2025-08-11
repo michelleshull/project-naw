@@ -1,0 +1,20 @@
+{
+  "amendment": 13,
+  "lastScraped": "2025-08-11T07:31:56.581Z",
+  "sourceUrl": "https://constitution.congress.gov/constitution/amendment-13/",
+  "sections": [
+    {
+      "id": 1,
+      "paragraphs": [
+        {
+          "id": 1,
+          "text": "Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction."
+        },
+        {
+          "id": 2,
+          "text": "Congress shall have power to enforce this article by appropriate legislation."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "amendment": 26,
+  "lastScraped": "2025-08-11T07:31:57.121Z",
+  "sourceUrl": "https://constitution.congress.gov/constitution/amendment-26/",
+  "sections": [
+    {
+      "id": 1,
+      "paragraphs": [
+        {
+          "id": 1,
+          "text": "The right of citizens of the United States, who are eighteen years of age or older, to vote shall not be denied or abridged by the United States or by any State on account of age."
+        },
+        {
+          "id": 2,
+          "text": "The Congress shall have power to enforce this article by appropriate legislation."
+        }
+      ]
+    }
+  ]
+}

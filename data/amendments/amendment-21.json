@@ -1,0 +1,24 @@
+{
+  "amendment": 21,
+  "lastScraped": "2025-08-11T07:31:57.060Z",
+  "sourceUrl": "https://constitution.congress.gov/constitution/amendment-21/",
+  "sections": [
+    {
+      "id": 1,
+      "paragraphs": [
+        {
+          "id": 1,
+          "text": "The eighteenth article of amendment to the Constitution of the United States is hereby repealed."
+        },
+        {
+          "id": 2,
+          "text": "The transportation or importation into any State, Territory, or possession of the United States for delivery or use therein of intoxicating liquors, in violation of the laws thereof, is hereby prohibited."
+        },
+        {
+          "id": 3,
+          "text": "This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by conventions in the several States, as provided in the Constitution, within seven years from the date of the submission hereof to the States by the Congress."
+        }
+      ]
+    }
+  ]
+}
