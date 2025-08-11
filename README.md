@@ -1,6 +1,6 @@
 # 📜 US Constitution Scraper & Patriotic Diff™
 
-> Guarding the Constitution — one automated test at a time.
+> Guarding the Constitution, one automated test at a time.
 
 ![GitHub License](https://img.shields.io/github/license/michelleshull/project-naw)
 ![Playwright](https://img.shields.io/badge/Playwright-automation-blueviolet?logo=playwright)
@@ -14,10 +14,10 @@
 - 🤖 Automated scraping of the official US Constitution site  
 - 📂 Structured JSON output for programmatic use  
 - 📄 Markdown output for easy human review  
-- 🛡 Baseline tracking — committed snapshots of each document  
-- 🔍 Patriotic Diff™ — granular change detection at section/paragraph level  
-- ⚙️ CI/CD friendly — fail builds if text changes unexpectedly  
-- 🧩 Config-driven — easy to expand or repoint to other sources  
+- 🛡 Baseline tracking: committed snapshots of each document  
+- 🔍 Patriotic Diff™: granular change detection at section/paragraph level  
+- ⚙️ CI/CD friendly: fail builds if text changes unexpectedly  
+- 🧩 Config-driven: easy to expand or repoint to other sources  
 
 ---
 
