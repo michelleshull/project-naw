@@ -1,7 +1,9 @@
 import { test, expect } from '@playwright/test';
+import config from '../config.js';
+
 
 test('test', async ({ page }) => {
-  await page.goto('https://constitution.congress.gov/constitution/preamble/');
+  await page.goto(config.preamble_url);
   await expect(page.getByRole('link', { name: 'Constitution Annotated' })).toBeVisible();
   await expect(page.getByRole('heading', { name: 'Constitution of the United' })).toBeVisible();
   await expect(page.getByText('Home > Constitution of the')).toBeVisible();
