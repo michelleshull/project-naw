@@ -2,7 +2,6 @@
 
 > Guarding the Constitution, one automated test at a time.
 
-![GitHub License](https://img.shields.io/github/license/michelleshull/project-naw)
 ![Playwright](https://img.shields.io/badge/Playwright-automation-blueviolet?logo=playwright)
 ![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange)
@@ -73,9 +72,11 @@ This will:
 ### 5️⃣ Approve changes (update baseline)
 
 #### macOS/Linux
-`UPDATE_BASELINE=1 npx playwright test tests/diff.articles.test.js`
+`UPDATE_BASELINE=1 npx playwright test tests/diffArticlesAgainstBaseline.spec.js`
+`UPDATE_BASELINE=1 npx playwright test tests/diffAmendmentsAgainstBaseline.spec.js`
 #### Windows PowerShell
-`$env:UPDATE_BASELINE="1"; npx playwright test tests/diff.articles.test.js`
+`$env:UPDATE_BASELINE="1"; npx playwright test tests/diffArticlesAgainstBaseline.spec.js`
+`$env:UPDATE_BASELINE="1"; npx playwright test tests/diffAmendmentsAgainstBaseline.spec.js`
 
 ## 📋 Example Diff Report
 ### Diff Report: article-3
@@ -109,6 +110,6 @@ This project was built to:
 
 - Preserve historical text integrity
 
- - Serve as a portfolio-ready example of clean, modular test architecture
+- Serve as a portfolio-ready example of clean, modular test architecture
 
 "We the People…" now includes We the Testers. 

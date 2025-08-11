@@ -9,7 +9,7 @@ import path from "path";
 
 const docs = [
   
-  { label: "preamble", url: config.preamble_url, type: "article", num: 0, baseline: "./data/articles/article-0.json" },
+  { label: "Preamble", url: config.preamble_url, type: "article", num: 0, baseline: "./data/articles/article-0.json" },
   { label: "article-1", url: config.article_I_url, type: "article", num: 1, baseline: "./data/articles/article-1.json" },
   { label: "article-2", url: config.article_II_url, type: "article", num: 2, baseline: "./data/articles/article-2.json" },
   { label: "article-3", url: config.article_III_url, type: "article", num: 3, baseline: "./data/articles/article-3.json" },
