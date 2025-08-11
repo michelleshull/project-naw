@@ -72,25 +72,25 @@ This will:
 
 ### 5️⃣ Approve changes (update baseline)
 
-# macOS/Linux
+#### macOS/Linux
 `UPDATE_BASELINE=1 npx playwright test tests/diff.articles.test.js`
-# Windows PowerShell
+#### Windows PowerShell
 `$env:UPDATE_BASELINE="1"; npx playwright test tests/diff.articles.test.js`
 
-### 📋 Example Diff Report
-# Diff Report: article-3
+## 📋 Example Diff Report
+### Diff Report: article-3
 
 **Baseline:** `./data/articles/article-3.json`
 **Generated:** 2025-08-11T12:34:56Z
 
 **Summary:** Added: 0 • Removed: 0 • Modified: 1
 
-## ✏️ Modified
+### ✏️ Modified
 - Section 2, Paragraph 1
   - **Before:** The judicial Power shall extend to all Cases, in Law and Equity...
   - **After:**  The judicial Power shall extend to all cases, in Law and Equity...
 
-### 🤝 Contributing
+## 🤝 Contributing
 - Fork & clone the repo
 
 - Create a feature branch
@@ -99,10 +99,10 @@ This will:
 
 - Submit a pull request
 
-### 📜 License
+## 📜 License
 - MIT License — see LICENSE for details.
 
-### 💡 Inspiration
+## 💡 Inspiration
 This project was built to:
 
 - Showcase robust SDET-level automation with Playwright
