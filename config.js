@@ -1,5 +1,5 @@
 const config = {
-    preamble_url:  ("https://constitution.congress.gov/constitution/article-1/"),
+    preamble_url:  ("https://constitution.congress.gov/constitution/preamble/"),
     article_I_url: ("https://constitution.congress.gov/constitution/article-1/"),
     article_II_url: ("https://constitution.congress.gov/constitution/article-2/"),
     article_III_url: ("https://constitution.congress.gov/constitution/article-3/"),
