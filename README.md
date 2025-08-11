@@ -31,10 +31,10 @@
     ┃ ┣ 📂 pages # Page Object Model classes for scraping
     ┃ ┗ 📂 utils # Formatters, exporters, diff utilities
     ┣ 📂 tests
-    ┃ ┣ 🧪 scrape.articles.test.js
-    ┃ ┣ 🧪 scrape.amendments.test.js
-    ┃ ┣ 🧪 diff.articles.test.js
-    ┃ ┗ 🧪 diff.amendments.test.js
+    ┃ ┣ 🧪 articleScraper.spec.js
+    ┃ ┣ 🧪 amendmentScraper.spec.js
+    ┃ ┣ 🧪 diffArticlesAgainstBaseline.spec.js
+    ┃ ┗ 🧪 diffAmendmentsAgainstBaseline.spec.js
     ┣ 📜 config.js # URLs and settings
     ┣ 📜 package.json
     ┣ 📜 README.md
