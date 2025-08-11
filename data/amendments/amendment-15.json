@@ -1,0 +1,20 @@
+{
+  "amendment": 15,
+  "lastScraped": "2025-08-11T07:31:56.756Z",
+  "sourceUrl": "https://constitution.congress.gov/constitution/amendment-15/",
+  "sections": [
+    {
+      "id": 1,
+      "paragraphs": [
+        {
+          "id": 1,
+          "text": "The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, or previous condition of servitude–"
+        },
+        {
+          "id": 2,
+          "text": "The Congress shall have power to enforce this article by appropriate legislation."
+        }
+      ]
+    }
+  ]
+}
