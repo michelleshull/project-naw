@@ -78,6 +78,13 @@ This will:
 `$env:UPDATE_BASELINE="1"; npx playwright test tests/diffArticlesAgainstBaseline.spec.js`
 `$env:UPDATE_BASELINE="1"; npx playwright test tests/diffAmendmentsAgainstBaseline.spec.js`
 
+### 6️⃣ Troubleshooting
+
+#### Ignore WebKit tests
+
+If, in your machine, Playwright is not compatible with WebKit, you can ignore WebKit tests with
+`IGNORE_WEBKIT=1 npx playwight test ...`
+
 ## 📋 Example Diff Report
 ### Diff Report: article-3
 
